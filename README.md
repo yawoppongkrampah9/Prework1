@@ -25,7 +25,7 @@ Navigation bar
 
 Here's a walkthrough of implemented features:
 
-<img src='/Users/yawoppong-krampah/web102_prework/assets/Codepath Prework Web 102.gif' title='Video Walkthrough'>
+<img src='Codepath Prework Web 102.gif' title='Video Walkthrough'>
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ... LiceCap 
