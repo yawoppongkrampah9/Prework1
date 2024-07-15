@@ -110,7 +110,7 @@ button {
 .navbar ul li a:hover {
     font-weight: bold;
 }
-.revealable.active{
+/* .revealable.active{
     opacity: 1;
     transform: translateY(0);
   }
@@ -126,4 +126,4 @@ button {
   }
   .js-scroll.scrolled {
     opacity: 1;
-  }
+  } */
